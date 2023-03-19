@@ -7,7 +7,7 @@
   body
 - Debug common problems that occur as part of the request-response cycle
 
-## Introduction
+# Introduction
 
 Just like the last lesson, we've got code for a React frontend and Rails API
 backend set up. This time though, it's up to you to use your debugging skills to
